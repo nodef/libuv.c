@@ -1,0 +1,31 @@
+{
+  "name": "libuv.c",
+  "version": "0.0.1",
+  "description": "Cross-platform asynchronous I/O; Ryan Dahl (2011).",
+  "keywords": [
+    "c",
+    "library",
+    "asynchronous",
+    "io",
+    "uv",
+    "libuv"
+  ],
+  "homepage": "https://github.com/nodef/libuv.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/libuv.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/libuv.c.git"
+  },
+  "license": "MIT",
+  "author": "wolfram77@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "exit"
+  }
+}
