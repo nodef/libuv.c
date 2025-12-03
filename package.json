@@ -1,6 +1,6 @@
 {
   "name": "libuv.c",
-  "version": "0.0.1",
+  "version": "1.51.0",
   "description": "Cross-platform asynchronous I/O; Ryan Dahl (2011).",
   "keywords": [
     "c",

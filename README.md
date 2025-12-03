@@ -1,7 +1,7 @@
 Cross-platform asynchronous I/O; Ryan Dahl (2011).
 
 libuv is a multi-platform support library with a focus on asynchronous I/O. It
-was primarily developed for use by [Node.js][], but it's also
+was primarily developed for use by [Node.js](https://nodejs.org/en), but it's also
 used by [Luvit](http://luvit.io/), [Julia](http://julialang.org/),
 [uvloop](https://github.com/MagicStack/uvloop), and [others](https://github.com/libuv/libuv/blob/v1.x/LINKS.md).
 
